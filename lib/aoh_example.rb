@@ -11,9 +11,9 @@ def assembled_aoh
   # Array. Ruby constants are denoted by ALL_CAPS
   name = [
     DONG_G,
-    JOELLE_VD
-    PAT_M
-    KATE_G
+    JOELLE_VD,
+    PAT_M,
+    KATE_G,
     BRUCE_G
   ]
   
